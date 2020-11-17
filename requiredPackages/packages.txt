@@ -1,0 +1,4 @@
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+device = torch.device("cpu") to device = torch.device("cuda") *not sure about this
+conda install cudatoolkit
+conda install *pytorch, networkx, numpy, tqdm*
